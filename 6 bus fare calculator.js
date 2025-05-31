@@ -1,4 +1,4 @@
-/**
+/*
  * Ticket fare Calculator
  * - Children (age < 10): Free
  * - Students (age < 18): 50% discount
